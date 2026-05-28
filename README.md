@@ -3,8 +3,6 @@
 
 A fiction-writing assistant plugin that turns any Joplin notebook into a complete novel-planning workspace. Board, Plotgrid, Plotlines, Timeline, Codex, and Stats — plus an Inspector sidebar, beat sheet templates, and Markdown export.
 
-![StoryLine Overview](_screenshots/Timeline.png)
-
 
 > [!NOTE]
 > **Status:** MVP. Covers the core novel-planning workflow: scene cards, plotline grids, chronological timelines, a configurable worldbuilding codex, and per-item metadata editing.
@@ -67,6 +65,10 @@ Per-plotline breakdown with scene lists, word counts, and presence ratios. Shows
 ### Timeline
 
 Chronological scene list sorted by in-world date/time.
+
+
+![StoryLine Overview](_screenshots/Timeline.png)
+
 
 ### Codex
 

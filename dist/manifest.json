@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "id": "io.arena.joplin-storyline",
+  "app_min_version": "2.13",
+  "name": "StoryLine",
+  "version": "0.2.0",
+  "description": "Fiction writing assistant with board, plotgrid, timeline and codex views",
+  "author": "Arena.ai",
+  "homepage_url": "https://github.com/arena-ai/joplin-storyline"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "joplin-plugin-storyline",
+  "version": "0.2.0",
+  "description": "Fiction writing assistant with board, plotgrid, timeline and codex views for Joplin",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "package": "npm run build && cp src/manifest.json dist/manifest.json && cp src/webview.css dist/webview.css && cp src/webview.js dist/webview.js && cd dist && tar -czf ../io.arena.joplin-storyline_v0.2.0.jpl ."
+  },
+  "keywords": ["joplin", "plugin", "fiction", "writing", "story"],
+  "devDependencies": {
+    "ts-loader": "^9.4.0",
+    "typescript": "^5.0.0",
+    "webpack": "^5.0.0",
+    "webpack-cli": "^4.0.0"
+  }
+}

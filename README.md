@@ -8,10 +8,6 @@ A fiction-writing assistant plugin that turns any Joplin notebook into a complet
 > **Status:** MVP. Covers the core novel-planning workflow: scene cards, plotline grids, chronological timelines, a configurable worldbuilding codex, and per-item metadata editing.
 
 
-> [!TIP]
-> Versions > 0.2.0 support mobile. [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.5.jpl)<br>
-> Tested on Fairphone 6.
-
 
 ---
 
@@ -22,6 +18,12 @@ npm install && npm run package
 ```
 
 Install `io.arena.joplin-storyline_v0.2.5.jpl` via **Tools → Options → Plugins → Install from file**, then restart Joplin.
+
+
+
+> [!TIP]
+> Don't want to built yourself? [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.5.jpl)<br>
+
 
 ---
 

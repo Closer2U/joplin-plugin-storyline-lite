@@ -191,3 +191,6 @@ Existing projects keep their saved colors. New plotlines get auto-assigned from 
 
 MIT
 
+## Disclaimer
+Built with heavy lifting done by AI.
+

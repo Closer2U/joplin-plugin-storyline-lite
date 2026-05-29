@@ -22,7 +22,7 @@ Install `io.arena.joplin-storyline_v0.2.5.jpl` via **Tools → Options → Plugi
 
 
 > [!TIP]
-> Don't want to built yourself? [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.5.jpl)<br>
+> Don't want to build yourself? [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.5.jpl)<br>
 
 
 ---

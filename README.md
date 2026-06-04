@@ -17,12 +17,12 @@ A fiction-writing assistant plugin that turns any Joplin notebook into a complet
 npm install && npm run package
 ```
 
-Install `io.arena.joplin-storyline_v0.2.5.jpl` via **Tools → Options → Plugins → Install from file**, then restart Joplin.
+Install `io.arena.joplin-storyline.jpl` via **Tools → Options → Plugins → Install from file**, then restart Joplin.
 
 
 
 > [!TIP]
-> Don't want to build yourself? [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.5.jpl)<br>
+> Don't want to build yourself? [Get it here 🫴](publish/io.arena.joplin-storyline_v0.2.11.jpl)<br>
 
 
 ---
